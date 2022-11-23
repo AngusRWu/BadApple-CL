@@ -6,4 +6,4 @@ include_directories(${X11_INCLUDE_DIR})
 include_directories( ${OpenCV_INCLUDE_DIRS} )
 add_executable( badApple badApple.cpp )
 target_link_libraries( badApple ${OpenCV_LIBS} )
-target_link_libraries(badApple ${X11_INCLUDE_DIR})
+
