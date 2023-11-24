@@ -8,4 +8,5 @@ When compiling use:
 -  sudo cmake .
 -  make
 -  ./badApple badApplePNG
+
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/72529469/203460243-4566a8f7-5586-49f3-8692-13d02f547192.gif)
